@@ -1,0 +1,6 @@
+{
+  "name": "Rupantar Beauty Salon & Aesthetic Centre",
+  "description": "Luxury ladies beauty parlour and aesthetic centre in Bankashi, Bhadrak, Odisha offering hair styling, hair spa, bridal makeup, skincare facials, nail rituals, and saree draping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
